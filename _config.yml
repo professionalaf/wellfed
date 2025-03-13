@@ -1,0 +1,37 @@
+title: WellFed
+description: Nourish Your Next Chapter
+baseurl: "/wellfed" # the subpath of your site, e.g. /blog
+url: "https://professionalaf.github.io" # Corrected GitHub Pages URL format
+github_username: professionalaf # Replace with actual username
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages specific settings
+future: false
+lsi: false
+safe: true
+
+# Theme settings
+color_scheme:
+  primary: "#65A5FF" # Blue from logo
+  secondary: "#A2F9AF" # Green from logo
+  gradient_start: "#A2F9AF" # Light green
+  gradient_end: "#65A5FF" # Blue
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Contact Us
+    url: /contact/
+  - text: Upcoming Events
+    url: /events/
+  - text: In the News
+    url: /news/ 

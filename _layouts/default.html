@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  {% seo %}
+</head>
+<body>
+  <div class="site-container">
+    <header class="site-header">
+      <div class="container">
+        <div class="logo-container">
+          <a href="{{ '/' | relative_url }}" class="logo">
+            <img src="{{ '/assets/images/wellfed-logo.png' | relative_url }}" alt="{{ site.title }} Logo">
+          </a>
+        </div>
+        <nav class="main-nav">
+          <button class="menu-toggle" aria-label="Toggle Menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="nav-links">
+            {% for item in site.navigation %}
+              <li><a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.text }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-logo">
+            <img src="{{ '/assets/images/wellfed-logo.png' | relative_url }}" alt="{{ site.title }} Logo">
+            <p>{{ site.description }}</p>
+          </div>
+          <div class="footer-links">
+            <h3>Quick Links</h3>
+            <ul>
+              {% for item in site.navigation %}
+                <li><a href="{{ item.url | relative_url }}">{{ item.text }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="footer-contact">
+            <h3>Contact Us</h3>
+            <p>Email: <a href="mailto:info@wellfed.org">info@wellfed.org</a></p>
+            <!-- Add more contact info as needed -->
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.querySelector('.menu-toggle').addEventListener('click', function() {
+      document.querySelector('.nav-links').classList.toggle('active');
+      this.classList.toggle('active');
+    });
+  </script>
+</body>
+</html> 
