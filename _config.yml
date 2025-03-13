@@ -1,5 +1,5 @@
 title: WellFed
-description: Nourish Your Next Chapter
+description: Supporting Federal workers transitioning to new careers
 baseurl: "/wellfed" # the subpath of your site, e.g. /blog
 url: "https://professionalaf.github.io" # Corrected GitHub Pages URL format
 github_username: professionalaf # Replace with actual username
@@ -33,5 +33,7 @@ navigation:
     url: /contact/
   - text: Upcoming Events
     url: /events/
+  - text: Resources
+    url: /resources/
   - text: In the News
     url: /news/ 

@@ -7,38 +7,38 @@ subtitle: Media coverage and updates about WellFed
 
 ## Media Coverage
 
-### WellFed Launches New Program for Seniors
-*Local Times - August 15, 2023*
+### WellFed Launches New Career Transition Program
+*Government Executive - August 15, 2023*
 
-WellFed has launched a new meal delivery program specifically designed for seniors in our community. The program, called "SeniorNourish," aims to address the unique nutritional needs of older adults while providing convenient, delicious meals that support health and independence.
-
-[Read the full article →](https://example.com)
-
-### Community Kitchen Renovation Complete
-*City News - July 3, 2023*
-
-After six months of renovations, WellFed's Community Kitchen has reopened with expanded capacity and state-of-the-art equipment. The updated facility will allow the organization to serve more community members and offer enhanced cooking classes and workshops.
+WellFed has launched a new program specifically designed for Federal employees facing agency reorganizations. The "FedTransition" initiative offers comprehensive support including career counseling, resume workshops, and connections to private sector employers who value government experience.
 
 [Read the full article →](https://example.com)
 
-### WellFed Receives Grant for School Program
-*Education Weekly - May 20, 2023*
+### Career Center Opens to Support Former Federal Workers
+*Federal Times - July 3, 2023*
 
-WellFed has been awarded a $50,000 grant to expand its nutrition education program in local schools. The funding will support cooking classes, garden-based learning, and cafeteria partnerships aimed at improving student nutrition and food literacy.
+WellFed has opened a new Career Transition Center dedicated to supporting Federal workers moving to the private sector. The center offers workspace, technology resources, and on-site career counselors to help with job searches and skill development.
+
+[Read the full article →](https://example.com)
+
+### WellFed Receives Grant for Federal-to-Private Sector Training
+*Workforce Development Today - May 20, 2023*
+
+WellFed has been awarded a $50,000 grant to expand its training programs for Federal workers transitioning to private employment. The funding will support technical skill development, certification programs, and industry-specific training to bridge the gap between government and private sector work.
 
 [Read the full article →](https://example.com)
 
 ## Press Releases
 
-### WellFed Announces Partnership with Local Farms
+### WellFed Announces Partnership with Major Tech Companies
 *April 12, 2023*
 
-WellFed is excited to announce a new partnership with five local farms that will supply fresh, seasonal produce for our meal programs and cooking classes. This collaboration supports local agriculture while ensuring the highest quality ingredients for our community.
+WellFed is excited to announce a new partnership with five technology companies committed to hiring former Federal employees. This collaboration creates direct pathways to employment while helping companies benefit from the unique skills and experience of government workers.
 
-### Annual Fundraiser Exceeds Goal
+### Annual Career Fair Connects Hundreds of Former Feds with Employers
 *March 1, 2023*
 
-WellFed's annual "Nourish the Community" fundraiser exceeded its goal, raising over $100,000 to support our programs. The successful event featured a farm-to-table dinner prepared by local chefs, along with silent and live auctions.
+WellFed's annual "Federal to Private" career fair exceeded expectations, connecting over 300 transitioning Federal employees with potential employers. The successful event featured 45 companies actively recruiting for positions that align with government experience and skills.
 
 ## Media Inquiries
 
