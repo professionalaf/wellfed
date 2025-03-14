@@ -7,7 +7,7 @@ subtitle: Our mission, vision, and journey
 
 ## Our Story
 
-WellFed was founded by former Federal employees who understood firsthand the challenges of transitioning from government service to the private sector. What began as an informal support network has grown into a comprehensive organization dedicated to empowering Federal workers navigating career transitions.
+WellFed was founded by former Federal employees who understood the challenges around uncertainty and transition. What began as an informal support network has grown into a comprehensive organization dedicated to empowering Federal workers to thrive while navigating uncertainty, change and career transitions.
 
 ## Our Mission
 
@@ -20,13 +20,6 @@ We envision a world where the valuable skills and experience of Federal workers 
 ## Our Team
 
 WellFed is powered by a dedicated team of former Federal employees, career coaches, HR professionals, and private sector partners who understand both worlds and can help bridge the gap.
-
-### Leadership Team
-
-- **Jane Smith** - Executive Director, Former Federal HR Executive
-- **John Doe** - Career Transition Director, 20+ years Federal Service
-- **Mary Johnson** - Private Sector Partnerships Coordinator
-- **Robert Brown** - Community Outreach Manager
 
 ## Our Values
 

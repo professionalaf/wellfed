@@ -189,6 +189,16 @@ img {
   min-height: calc(100vh - var(--header-height) - 300px);
 }
 
+/* Lists */
+ul, ol {
+  padding-left: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
 .page-header {
   background: linear-gradient(to right, var(--gradient-start), var(--gradient-end));
   color: var(--light-text);

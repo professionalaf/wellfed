@@ -103,9 +103,26 @@ Site-wide settings like title, description, and navigation are in the `_config.y
 The website is automatically deployed when changes are pushed to the main branch of the GitHub repository. No additional steps are required.
 
 If you're developing locally and want to preview the site:
+
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
-2. Run `bundle exec jekyll serve` in the project directory
-3. View the site at `http://localhost:4000`
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
+3. Run Jekyll with live reload:
+   ```bash
+   bundle exec jekyll serve --livereload
+   ```
+   This will:
+   - Start the Jekyll server
+   - Enable live reload (site automatically refreshes when files change)
+   - Watch for file changes in real-time
+4. View the site at `http://localhost:4000`
+
+Note: If you encounter any issues with live reload, you can also run without it:
+```bash
+bundle exec jekyll serve
+```
 
 ## Need Help?
 
