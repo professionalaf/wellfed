@@ -1,7 +1,7 @@
 title: WellFed
 description: Supporting Federal workers transitioning to new careers
-baseurl: "/wellfed" # the subpath of your site, e.g. /blog
-url: "https://professionalaf.github.io" # Corrected GitHub Pages URL format
+baseurl: "" # Empty when using a custom domain
+url: "https://wearewellfed.com" # Your custom domain
 github_username: professionalaf # Replace with actual username
 
 # Build settings
